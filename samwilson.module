@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the samwilson feature.
+ */
+
+include_once 'samwilson.features.inc';
